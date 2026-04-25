@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10.7cm" height="10.7cm" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 302.4 302.4">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 8.0-c001 1.000000, 0000/00/00-00:00:00        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:prism="http://prismstandard.org/namespaces/basic/2.1/"
+            xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+            xmlns:bsam="http://www.bsam.blog">
+         <dc:modified>2025-09-09T17:15:46.454Z</dc:modified>
+         <dc:format>image/svg+xml</dc:format>
+         <prism:Date>2025-09-08T19:20:00.000+02:00</prism:Date>
+         <tiff:ImageWidth>404</tiff:ImageWidth>
+         <tiff:ImageLength>404</tiff:ImageLength>
+         <bsam:rightsLimitedUnlimited>unlimited</bsam:rightsLimitedUnlimited>
+         <bsam:subDigitalAssetType>
+            <rdf:Bag>
+               <rdf:li>enterprise:digital-asset-type/image/icon</rdf:li>
+            </rdf:Bag>
+         </bsam:subDigitalAssetType>
+         <bsam:industry>
+            <rdf:Bag>
+               <rdf:li>enterprise:industry/generic-all-industries</rdf:li>
+            </rdf:Bag>
+         </bsam:industry>
+         <bsam:assetOwner>
+            <rdf:Bag>
+               <rdf:li>enterprise:business-unit/webfleet</rdf:li>
+            </rdf:Bag>
+         </bsam:assetOwner>
+         <bsam:usageCountry>
+            <rdf:Bag>
+               <rdf:li>enterprise:region-country/global</rdf:li>
+            </rdf:Bag>
+         </bsam:usageCountry>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="19.7" y="65.9" width="263" height="178.3"/>
+    </clipPath>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.2, SVG Export Plug-In . SVG Version: 1.2.0 Build 154)  -->
+  <g>
+    <g id="Layer_1">
+      <g class="cls-2">
+        <path d="M174.8,101.4c-10.7-21.1-32.6-35.5-57.8-35.5-35.8,0-64.8,29-64.8,64.9s29,64.8,64.8,64.8,16.1-1.6,23.4-4.4c-2.4-7.4-3.7-15.3-3.7-23.5,0-28.3,15.3-53,38.1-66.4"/>
+        <path d="M151.7,213.4c-10.8,4.1-22.5,6.4-34.8,6.4-22.1,0-42.5-7.4-59-19.8-20,10-34.2,27-38.3,44.2h186c-22.1-2.2-41.5-13.9-54-30.9"/>
+        <path d="M217.5,101.4c-36,0-65.2,29.3-65.2,65.3s29.3,65.3,65.2,65.3,65.2-29.3,65.2-65.3-2.4-20.3-7-29.4l-7.4,9.6c2.5,6.3,3.7,13,3.7,19.8,0,30.1-24.5,54.6-54.6,54.6s-54.6-24.5-54.6-54.6,24.5-54.6,54.6-54.6,22,3.4,31.2,9.9l6.4-8.6c-11.1-7.8-24.1-12-37.6-12"/>
+        <path d="M188.7,148.9c-3.1,0-6,1.4-8,3.8-1.7,2.1-2.5,4.8-2.2,7.6.3,2.7,1.6,5.2,3.7,6.9l31.2,25.4c1.8,1.5,4.1,2.3,6.5,2.3s6.1-1.4,8-3.8c0,0,.2-.2.4-.5.4-.4.9-1.1,1.2-1.4l49.7-64.9c3.5-4.5,2.6-11-1.9-14.5-1.8-1.4-4-2.1-6.2-2.1-3.3,0-6.2,1.5-8.2,4l-44.6,58.2-23.1-18.8c-1.8-1.5-4.1-2.3-6.5-2.3"/>
+      </g>
+    </g>
+  </g>
+</svg>

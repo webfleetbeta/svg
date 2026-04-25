@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10.7cm" height="10.7cm" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 302.4 302.4">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 8.0-c001 1.000000, 0000/00/00-00:00:00        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:prism="http://prismstandard.org/namespaces/basic/2.1/"
+            xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+            xmlns:bsam="http://www.bsam.blog">
+         <dc:modified>2025-09-09T17:16:35.109Z</dc:modified>
+         <dc:format>image/svg+xml</dc:format>
+         <prism:Date>2025-09-08T19:20:00.000+02:00</prism:Date>
+         <tiff:ImageWidth>404</tiff:ImageWidth>
+         <tiff:ImageLength>404</tiff:ImageLength>
+         <bsam:rightsLimitedUnlimited>unlimited</bsam:rightsLimitedUnlimited>
+         <bsam:subDigitalAssetType>
+            <rdf:Bag>
+               <rdf:li>enterprise:digital-asset-type/image/icon</rdf:li>
+            </rdf:Bag>
+         </bsam:subDigitalAssetType>
+         <bsam:industry>
+            <rdf:Bag>
+               <rdf:li>enterprise:industry/generic-all-industries</rdf:li>
+            </rdf:Bag>
+         </bsam:industry>
+         <bsam:assetOwner>
+            <rdf:Bag>
+               <rdf:li>enterprise:business-unit/webfleet</rdf:li>
+            </rdf:Bag>
+         </bsam:assetOwner>
+         <bsam:usageCountry>
+            <rdf:Bag>
+               <rdf:li>enterprise:region-country/global</rdf:li>
+            </rdf:Bag>
+         </bsam:usageCountry>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="64.7" y="50.1" width="172.9" height="202.3"/>
+    </clipPath>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.2, SVG Export Plug-In . SVG Version: 1.2.0 Build 154)  -->
+  <g>
+    <g id="Layer_1">
+      <g class="cls-2">
+        <path d="M77.8,50.1c-7.2,0-13.1,5.9-13.1,13.1v176c0,7.2,5.9,13.1,13.1,13.1h146.7c7.2,0,13.1-5.9,13.1-13.1V103.5s0,0,0,0c.1-6.4-2.3-12.3-6.7-16.7l-30-30c-4.3-4.3-10.1-6.7-16.2-6.7s-1.5,0-2.3.1h-104.6ZM221.2,235.9H81.1V66.6h100.9v31c.1,4.4,3.7,8,8.1,8.1h.7s0,0,0,0h30.3v130.3Z"/>
+        <path d="M97.3,175.7h16.8c9.8,0,15.8,5.8,15.8,14.3h0c0,9.7-7.4,14.6-16.7,14.6h-6.9v12.4h-9.1v-41.2ZM113.5,196.5c4.5,0,7.2-2.7,7.2-6.2h0c0-4.2-2.8-6.4-7.4-6.4h-7v12.6h7.2Z"/>
+        <path d="M135.1,175.7h16.1c13,0,21.9,8.9,21.9,20.5h0c0,11.7-8.9,20.7-21.9,20.7h-16.1v-41.2ZM144.2,183.9v24.8h7c7.4,0,12.4-5,12.4-12.3h0c0-7.4-5-12.5-12.4-12.5h-7Z"/>
+        <polygon points="179.7 175.7 211.1 175.7 211.1 184 188.8 184 188.8 192.7 208.5 192.7 208.5 201 188.8 201 188.8 216.9 179.7 216.9 179.7 175.7"/>
+      </g>
+    </g>
+  </g>
+</svg>
